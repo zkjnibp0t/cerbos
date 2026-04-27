@@ -1,0 +1,3 @@
+type: fix
+scope: storage
+description: Fix race condition in postgres store when handling concurrent policy updates
