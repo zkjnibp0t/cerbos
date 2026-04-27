@@ -1,0 +1,3 @@
+fix
+Fix race condition in policy store cache invalidation
+https://github.com/cerbos/cerbos/issues/2187
